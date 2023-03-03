@@ -102,13 +102,13 @@ body {
     margin-bottom: 20px;
   }
   
-  #Sobre mí {
+  #sobremi {
     width: 70%;
     margin: 0 auto;
   }
   
   
-  #Sobre mí p {
+  #sobremi p {
     font-size: 32px;
     line-height: 1.5;
     margin-bottom: 40px;
@@ -121,7 +121,7 @@ body {
     border-bottom: 1px solid #ddd;
   }
 
-  #Sobre mí image {
+  #sobremi {
     display: flex;
     flex-direction: column;
     align-items: center;
